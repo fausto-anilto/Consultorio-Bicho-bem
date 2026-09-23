@@ -1,0 +1,38 @@
+# ==============================================================================
+# robots.txt para Consultório Veterinário Bicho Bem (Vitória - ES)
+# Permissão total de indexação para motores de busca e crawlers de IA (SEO & AEO)
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Crawlers de Inteligência Artificial (AEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://bichobem.com.br/sitemap.xml
