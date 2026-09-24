@@ -122,4 +122,9 @@ document.addEventListener('DOMContentLoaded', () => {
     'color: #7C3B40; font-size: 16px; font-weight: bold; background: #FAF1EF; padding: 6px 12px; border-radius: 4px;'
   );
   console.log('Site institucional local otimizado para SEO, AEO e conversão rápida via WhatsApp.');
+
+  // Funções para a página Sobre Nós
+  function carregarPostInstagram() {
+    // Código para carregar o post do Instagram
+  }
 });
